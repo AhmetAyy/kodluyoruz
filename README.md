@@ -1,17 +1,17 @@
-# kodluyoruz kapsamında açtığım ilk repo 
+# kodluyoruz ilk repo 
+Bu repo Kodluyoruz Front-End eğitiminde oluşturduğumuz ilk repo.
 
 ## Installation
 
-'''bash
-https://github.com/AhmetAyy/kodluyoruz.git 
-'''
-
-
+``` bash
+https://github.com/AhmetAyy/kodluyoruz.git     
+```
+## Usage
 Linux için:
-'''Linux
+``` Linux
 cd kodluyoruz
 code .
-'''
+```
 
 ## Constributing
 
